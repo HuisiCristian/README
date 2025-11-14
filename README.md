@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Huisi Cristian</h1>
-<h3 align="center">Desarrollador Web💻| HTML, CSS, Sass, JavaScript | Próximo a ampliar conocimientos en Full Stack.</h3>
+<h3 align="center">Frontend Developer💻| HTML, CSS, Sass, JavaScript | Próximo a ampliar conocimientos en Full Stack.</h3>
 
 - 💼Trabajo en progreso: Página web de indumentaria [Citrux Indumentaria](https://citrux-indumentaria-coderhouse.vercel.app)
 
